@@ -1,9 +1,4 @@
-/*
- * WordVector.h
- *
- *  Created on: Apr 19, 2017
- *      Author: Kathan Patel
- */
+
 
 #ifndef WORDVECTOR_H_
 #define WORDVECTOR_H_

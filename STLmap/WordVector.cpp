@@ -1,9 +1,4 @@
-/*
- * WordVector.cpp
- *
- *  Created on: Apr 19, 2017
- *      Author: Kathan Patel
- */
+
 #include <iostream>
 #include <vector>
 #include <string>

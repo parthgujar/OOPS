@@ -1,9 +1,4 @@
-/*
- * TimedContainer.h
- *
- *  Created on: Apr 19, 2017
- *      Author: Kathan Patel
- */
+
 
 #ifndef TIMEDCONTAINER_H_
 #define TIMEDCONTAINER_H_

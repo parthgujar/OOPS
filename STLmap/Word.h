@@ -1,9 +1,4 @@
-/*
- * Word.h
- *
- *  Created on: Apr 19, 2017
- *      Author: Kathan Patel
- */
+
 #ifndef WORD_H_
 #define WORD_H_
 

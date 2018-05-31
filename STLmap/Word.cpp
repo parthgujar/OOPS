@@ -1,9 +1,4 @@
-/*
- * Word.cpp
- *
- *  Created on: Apr 19, 2017
- *      Author: Kathan Patel
- */
+
 #include <string>
 #include "Word.h"
 using namespace std;

@@ -1,9 +1,4 @@
-/*
- * WordMap.h
- *
- *  Created on: Apr 19, 2017
- *      Author: Kathan Patel
- */
+
 #ifndef WORDMAP_H_
 #define WORDMAP_H_
 
