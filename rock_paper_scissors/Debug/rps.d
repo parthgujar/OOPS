@@ -1,0 +1,1 @@
+rps.o: ../rps.cpp
